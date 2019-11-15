@@ -2,7 +2,7 @@
 This repository contains a list of publications pertinent to the Genome in a Bottle project
 
 
-<sub>High-coverage, long-read sequencing of Han Chinese trio reference samples, https://www.nature.com/articles/s41597-019-0098-2/metrics</sub> <br />
+* <sub>Ying-Chih Wang, Nathan D. Olson, Gintaras Deikus, Hardik Shah, Aaron M. Wenger, Jonathan Trow, Chunlin Xiao, Stephen Sherry, Marc L. Salit, Justin M. Zook, Melissa Smith & Robert Sebra, 2019,  High-coverage, long-read sequencing of Han Chinese trio reference samples, https://www.nature.com/articles/s41597-019-0098-2</sub> <br />
 
  
 Publication describing the improved, reproducible methods used to form the widely used GIAB high-confidence small variant and reference calls (v3.3.2, released in Feb 2017) for 5 genomes, including 4 broadly-consented genomes from the Personal Genome Project. These methods cover ~90 % of GRCh37 and GRCh38, with 17 % more SNPs and 176 % more indels than our methods published in 2014.   
