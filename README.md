@@ -1,15 +1,15 @@
 # giab_publications
 This repository contains a list of publications pertinent to the Genome in a Bottle project
 
+* <sub>Justin M. Zook, Nancy F. Hansen, Nathan D. Olson, Lesley M. Chapman,  View ORCID ProfileJames C. Mullikin, Chunlin Xiao, Stephen Sherry, Sergey Koren, Adam M. Phillippy,  View ORCID ProfilePaul C. Boutros, Sayed Mohammad E. Sahraeian, Vincent Huang, Alexandre Rouette, Noah Alexander, Christopher E. Mason, Iman Hajirasouliha, Camir Ricketts, Joyce Lee, Rick Tearle, Ian T. Fiddes, Alvaro Martinez Barrio, Jeremiah Wala, Andrew Carroll, Noushin Ghaffari, Oscar L. Rodriguez, Ali Bashir,  View ORCID ProfileShaun Jackman, John J Farrell, Aaron M Wenger,  View ORCID ProfileCan Alkan, Arda Soylev, Michael C. Schatz, Shilpa Garg, George Church, Tobias Marschall, Ken Chen, Xian Fan, Adam C. English, Jeffrey A. Rosenfeld, Weichen Zhou, Ryan E. Mills, Jay M. Sage, Jennifer R. Davis, Michael D. Kaiser, John S. Oliver, Anthony P. Catalano, Mark JP Chaisson, Noah Spies, Fritz J. Sedlazeck, Marc Salit, the Genome in a Bottle Consortium. A robust benchmark for germline structural variant detection. https://www.biorxiv.org/content/10.1101/664623v2 </sub><br />
 
 * <sub>Ying-Chih Wang, Nathan D. Olson, Gintaras Deikus, Hardik Shah, Aaron M. Wenger, Jonathan Trow, Chunlin Xiao, Stephen Sherry, Marc L. Salit, Justin M. Zook, Melissa Smith & Robert Sebra, 2019,  High-coverage, long-read sequencing of Han Chinese trio reference samples, https://www.nature.com/articles/s41597-019-0098-2</sub> <br />
 
- 
+* <sub>Justin M. Zook, Jennifer McDaniel, Nathan D. Olson, Justin Wagner, Hemang Parikh, Haynes Heaton, Sean A. Irvine, Len Trigg, Rebecca Truty, Cory Y. McLean, Francisco M. De La Vega, Chunlin Xiao, Stephen Sherry & Marc Salit, 2019, An open resource for accurately benchmarking small variant and reference calls, https://www.nature.com/articles/s41587-019-0074-6</sub><br />
+
+
 Publication describing the improved, reproducible methods used to form the widely used GIAB high-confidence small variant and reference calls (v3.3.2, released in Feb 2017) for 5 genomes, including 4 broadly-consented genomes from the Personal Genome Project. These methods cover ~90 % of GRCh37 and GRCh38, with 17 % more SNPs and 176 % more indels than our methods published in 2014.   
 * <sub>Justin Zook, Jennifer McDaniel, Hemang Parikh, Haynes Heaton, Sean A Irvine, Len Trigg, Rebecca Truty, Cory Y McLean, Francisco M De La Vega, Chunlin Xiao, Stephen Sherry, Marc Salit, Genome in a Bottle Consortium, Reproducible integration of multiple sequencing datasets to form high-confidence SNP, indel, and reference calls for five human genome reference materials. doi: https://doi.org/10.1101/281006, https://www.biorxiv.org/content/early/2018/05/25/281006</sub> <br />
-
-<sub>An open resource for accurately benchmarking small variant and reference calls, https://www.nature.com/articles/s41587-019-0074-6</sub><br />
-
 
 Publication describing best practices for benchmarking germline small variants using high-confidence calls and regions like those described in the first manuscript.  The methods developed and standardized by the GA4GH Benchmarking Team enable sophisticated comparison of variant call files, output of standardized performance metrics, and stratification of performance by variant type and genome context. 
 * <sub>Peter Krusche, Len Trigg, Paul C Boutros, Christopher E Mason, Francisco M De La Vega, Benjamin L Moore, Mar Gonzalez-Porta, Michael A Eberle, Zivana Tezak, Samir Labadibi, Rebecca Truty, George Asimenos, Birgit Funke, Mark Fleharty, Brad A Chapman, Marc Salit, Justin M Zook, Global Alliance for Genomics and Health Benchmarking Team, Best Practices for Benchmarking Germline Small Variant Calls in Human Genomes. https://doi.org/10.1101/270157, https://www.biorxiv.org/content/early/2018/05/24/270157  </sub> <br />
