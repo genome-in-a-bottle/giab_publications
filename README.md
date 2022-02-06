@@ -1,6 +1,8 @@
 # giab_publications
 This repository contains a list of publications pertinent to the Genome in a Bottle project
 
+* <sub>Curated variation benchmarks for challenging medically relevant autosomal genes, Nature Biotechnology, 07 February 2022. </sub><br /> 
+
 * <sub>Chin CS, Wagner J, Zeng Q, Garrison E, Garg S, Fungtammasan A, Rautiainen M, Aganezov S, Kirsche M, Zarate S, Schatz MC, Xiao C, Rowell WJ, Markello C, Farek J, Sedlazeck FJ, Bansal V, Yoo B, Miller N, Zhou X, Carroll A, Barrio AM, Salit M, Marschall T, Dilthey AT, Zook JM. A diploid assembly-based benchmark for variants in the major histocompatibility complex. Nat Commun. 2020 Sep 22;11(1):4794. doi: 10.1038/s41467-020-18564-9. </sub><br />
 
 * <sub>Zook JM, Hansen NF, Olson ND, Chapman L, Mullikin JC, Xiao C, Sherry S, Koren S, Phillippy AM, Boutros PC, Sahraeian SME, Huang V, Rouette A, Alexander N, Mason CE, Hajirasouliha I, Ricketts C, Lee J, Tearle R, Fiddes IT, Barrio AM, Wala J, Carroll A, Ghaffari N, Rodriguez OL, Bashir A, Jackman S, Farrell JJ, Wenger AM, Alkan C, Soylev A, Schatz MC, Garg S, Church G, Marschall T, Chen K, Fan X, English AC, Rosenfeld JA, Zhou W, Mills RE, Sage JM, Davis JR, Kaiser MD, Oliver JS, Catalano AP, Chaisson MJP, Spies N, Sedlazeck FJ, Salit M. A robust benchmark for detection of germline large insertions and deletions. Nat. Biotechnol. 10.1038/s41587-020-0538-8 (2020).</sub><br />
